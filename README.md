@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<ul>
+  <li>Estudiante de desarrollo de aplicaiones web</li>
+</ul>
 
-<h3 align="center">Estudiante de desarrollo de aplicaiones web</h3>
