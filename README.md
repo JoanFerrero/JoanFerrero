@@ -24,7 +24,7 @@
 <a href="https://jquery.com/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/10f562340c9fa9ae83db3341791e263aa39275aaea91ae0bb133b49def2d4c4d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279" data-canonical-src="https://skillicons.dev/icons?i=jquery" style="max-width: 100%;">
 </a>
-<a href="https://jquery.com/](https://vuejs.org/" rel="nofollow">
+<a href="https://vuejs.org/" rel="nofollow">
   <img src="https://camo.githubusercontent.com/db36b1cb5f7968c157e655e7d04f1c1340e8e2fc3792639ee869b9f5163b7395/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d767565" data-canonical-src="https://skillicons.dev/icons?i=vue" style="max-width: 100%;">
 </a>
 
@@ -62,7 +62,7 @@
     <img src="https://camo.githubusercontent.com/ffb54a4ebda0615bb3b2ca2c620fbd516cda7b0d855b31b86a5648b00ac2cbcc/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462" data-canonical-src="https://skillicons.dev/icons?i=mongodb" style="max-width: 100%;">
 </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://jquery.com/](https://vuejs.org/" rel="nofollow">
+<a href="https://vuejs.org/" rel="nofollow">
   <img src="https://camo.githubusercontent.com/db36b1cb5f7968c157e655e7d04f1c1340e8e2fc3792639ee869b9f5163b7395/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d767565" data-canonical-src="https://skillicons.dev/icons?i=vue" style="max-width: 100%;">
 </a>
 </article>
