@@ -65,4 +65,7 @@
 <a href="https://vuejs.org/" rel="nofollow">
   <img src="https://camo.githubusercontent.com/db36b1cb5f7968c157e655e7d04f1c1340e8e2fc3792639ee869b9f5163b7395/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d767565" data-canonical-src="https://skillicons.dev/icons?i=vue" style="max-width: 100%;">
 </a>
+<a href="https://www.python.org/" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/c6db847fc4421b8233c0907e1f2e1ceb85442215d636d057f109a7ac9c16da9e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f32323070782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" width="40" height="40" style="max-width: 100%;">
+</a>
 </article>
